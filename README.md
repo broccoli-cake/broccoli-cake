@@ -1,11 +1,11 @@
 #### 👋 Hi, I’m @broccoli-cake
 
-🔍 I focus on **secure and scalable system architecture**, especially in cloud-native environments.  
-💡 I'm interested in the intersection of **infrastructure and security**, and how they can be automated together.
+I focus on **secure and scalable system architecture**, especially in cloud-native environments.  
+I'm interested in the intersection of **infrastructure and security**, and how they can be automated together.
 
 ---
 
-#### 🧠 Projects & Research
+#### Projects & Research
 
 - **Istio Mesh Study**  
   Ambient vs Sidecar performance & operational comparison (ASK 2025 paper)
@@ -21,7 +21,7 @@
 
 ---
 
-#### ⚙️ Tech I’m working with
+#### Tech I’m working with
 
 **Languages**  
 Java · Spring · Go · Node.js · Python · C · React
